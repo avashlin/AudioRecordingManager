@@ -16,7 +16,7 @@ import java.io.IOException;
 public class AudioRecordingManager
 {
     private static final String FILE_EXT_WAV = ".wav";
-    private static final String OUTPUT_FOLDER = "AudioRecorder";
+    private static final String OUTPUT_FOLDER = "AudioRecordings";
 
     //Media Recorder variable which will be
     // initialized on every call to startRecording
