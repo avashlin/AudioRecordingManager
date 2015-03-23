@@ -1,4 +1,4 @@
-/**INSERT PACKAE NAME HERE**/
+/**INSERT PACKAGE NAME HERE**/
 
 import android.media.MediaRecorder;
 import android.os.Environment;
